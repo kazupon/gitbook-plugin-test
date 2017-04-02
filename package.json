@@ -1,5 +1,6 @@
 {
   "name": "gitbook-plugin-test",
+  "description": "gitbook plugin for test",
   "version": "0.0.1",
   "author": "kazuya kawaguchi",
   "engines": {
